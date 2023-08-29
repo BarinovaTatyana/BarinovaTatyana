@@ -4,5 +4,5 @@
   
 ---
 
-# HI!
+## HI! I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. Welcome to my GitHub page.
 
